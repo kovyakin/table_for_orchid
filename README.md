@@ -40,7 +40,12 @@ $user=\App\Models\User::factory(100)->create();
 ```
 - log in with your account;
 
-- go /example;
+
+#### create user :
+- php artisan orchid:admin admin admin@admin.com password
+
+- go /admin/test;
+
 
 
 
