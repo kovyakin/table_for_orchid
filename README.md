@@ -25,7 +25,7 @@ This package is developed on Vue3
 and is added to work with Laravel.
 
 
-<img src="https://github.com/kovyakin/components/blob/master/src/docs/images_table/1.png" alt="image">
+<img src="https://github.com/kovyakin/table_for_orchid/blob/master/1.png" alt="image">
 
 ## Step by step
 - git clone https://github.com/kovyakin/table_for_orchid.git
